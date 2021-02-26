@@ -10,26 +10,26 @@ role: Data Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Justus-Liebig-Universität
+- name: Justus Liebig University Gießen
   url: https://www.uni-giessen.de/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meine Interessen sind Datenanalyse, machine learning und Programmierung.
+bio: My interests are data analysis, machine learning and programming.
 
 # Interests to show in About widget
 interests:
-- Datenanalyse
-- Maschinelles Lernen
-- Programmierung
+- data analysis
+- machine learning
+- programming
 
 # Education to show in About widget
 education:
   courses:
-  - course: M. A. Demokratie & Governance
-    institution: Justus-Liebig-Universität Gießen
+  - course: M. A. Democracy & Governance
+    institution: Justus Liebig University Gießen
     year: 2020
-  - course: B. Sc. Volkswirtschaftslehre
-    institution: Universität Mannheim
+  - course: B. Sc. Economics
+    institution: University of Mannheim
     year: 2014
 
 # Social/Academic Networking
@@ -45,7 +45,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/hartard
+  link: https://twitter.com/falco_hartard
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
