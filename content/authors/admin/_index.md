@@ -43,6 +43,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hartard
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/falco-hartard-2a339a1ba/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/falco_hartard
