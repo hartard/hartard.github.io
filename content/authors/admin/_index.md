@@ -40,12 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:data.hartard@gmail.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/falco_hartard
 - icon: github
   icon_pack: fab
   link: https://github.com/hartard
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/falco_hartard
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
