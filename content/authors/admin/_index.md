@@ -11,7 +11,7 @@ role: Data Enthusiast
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Justus-Liebig-Universität
-  url: https://www.uni-giessen.de/index.html
+#  url: https://www.uni-giessen.de/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
