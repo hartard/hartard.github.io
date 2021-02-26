@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Falco Hartard
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,22 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Datenanalyse
+- Maschinelles Lernen
+- Programmierung
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M. A. Demokratie & Governance
+    institution: Justus-Liebig-Universität Gießen
+    year: 2020
+  - course: B. Sc. Volkswirtschaftslehre
+    institution: Universität Mannheim
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
