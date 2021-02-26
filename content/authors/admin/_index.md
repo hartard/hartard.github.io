@@ -14,7 +14,7 @@ organizations:
   url: https://www.uni-giessen.de/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Meine Interessen sind Datenanalyse, machine learning und Programmierung.
 
 # Interests to show in About widget
 interests:
@@ -43,12 +43,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hartard
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
