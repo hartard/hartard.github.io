@@ -65,5 +65,3 @@ highlight_name: false
 ---
 
 I graduated in political science and economics. My interests are in data analysis and communication in social media.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
