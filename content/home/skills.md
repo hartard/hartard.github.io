@@ -19,23 +19,23 @@ feature:
 - description: 70 %
   icon: python
   icon_pack: fab
-  name: Python - good knowledge
-- description: 50 %
-  icon: linux
-  icon_pack: fab
-  name: Linux - shell (bash) 
-- description: 50 %
+  name: Python
+- description: 70 %
   icon: microsoft
   icon_pack: fab
-  name: MS Office - good knowledge
-- description: 50 %
+  name: MS Office
+- description: 30 %
+  icon: linux
+  icon_pack: fab
+  name: Linux - Shell (bash) 
+- description: 30 %
   icon: database
   icon_pack: fas
-  name: SQL - basic commands
+  name: SQL
 - description: 30 %
   icon: r-project
   icon_pack: fab
-  name: R - basic knowledge
+  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
