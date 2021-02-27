@@ -23,7 +23,11 @@ feature:
 - description: 50 %
   icon: linux
   icon_pack: fab
-  name: Linux - basic shell (bash) commands
+  name: Linux - shell (bash) 
+- description: 50 %
+  icon: microsoft
+  icon_pack: fab
+  name: MS Office - good knowledge
 - description: 50 %
   icon: database
   icon_pack: fas
