@@ -64,4 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I graduated in political science and economics. My interests are in data analysis and communication in social media.
+I studied economics and political science.
+My interests are data analysis, social media and communication.
+I am interested in communication behaviors and automated hate speech detection.
