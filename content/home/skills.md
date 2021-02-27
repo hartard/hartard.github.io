@@ -36,7 +36,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-
+- description: 30 %
+  icon: git
+  icon_pack: fab
+  name: Git
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
