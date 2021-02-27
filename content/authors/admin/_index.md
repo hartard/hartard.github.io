@@ -6,7 +6,7 @@ title: Falco Hartard
 superuser: true
 
 # Role/position/tagline
-role: Data Enthusiast
+role: Data & Policy
 
 # Organizations/Affiliations to show in About widget
 organizations:
