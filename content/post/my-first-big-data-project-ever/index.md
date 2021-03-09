@@ -28,6 +28,6 @@ After the algorithm assigned the tweets to one of 100 categories, I manually cod
 
 I plotted the data for each party in the German parliament individually.
 The relevant plot I want to show here is aggregated over all parties and shows all tweets about the climate topic.
-Additionally, I marked the rise of Greta Thunberg and the Fridays-For-Future movement with a dotted vertical line. The graph shows that the communication behavior changed afterwards. More politicians talked about climate and environmental topics. Further statistical research would offer more insight into the underlying mechanisms.
+Additionally, I marked the rise of Greta Thunberg and the Fridays-For-Future movement with a dotted vertical line. The graph shows that the communication behavior changed afterwards. More politicians from all parties talked about the climate topic. Further statistical research would offer more insight into the underlying mechanisms.
 
 ![](output-onlinepngtools-1-.png)
