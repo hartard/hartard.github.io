@@ -21,6 +21,7 @@ Since I was interested in the climate change debate, I needed to categorize the 
 After the algorithm assigned the tweets to one of 100 categories, I manually coded the relevant topics. Those were climate, environment, anti-environment, other policy content and off-topic.
 
 * climate: tweets directly related to climate change
+
 * environment: tweets indirectly related to climate change, like "Erneuerbare-Energien-Gesetz"
 * anti-environment: tweets opposed to environmental topics
 * other policy content: tweets about other policy like "Mindestlohn"
