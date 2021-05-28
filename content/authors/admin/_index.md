@@ -14,13 +14,13 @@ organizations:
   url: https://www.uni-giessen.de/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests are data analysis, machine learning and programming.
+bio: My interests are data analysis, machine learning and politics.
 
 # Interests to show in About widget
 interests:
 - data analysis
 - machine learning
-- programming
+- politics
 
 # Education to show in About widget
 education:
