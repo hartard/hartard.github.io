@@ -64,8 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-I studied economics and political science.
-My interests are data analysis, social media, communication and .
+My name is Falco Hartard. 
+I studied economics and political science and I work for the Liberal Democrats.
+My interests are data analysis, social media communication and policy.
 I am especially interested in communication behaviors and automated hate speech detection.
-Further, I study infrastructure, mobility and transportation.
-Mainly in policy implementation.
+Further, I study infrastructure, mobility and transportation. And their implementation via policy.
