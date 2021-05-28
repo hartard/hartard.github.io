@@ -19,36 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Doctoral Researcher"
-  company = "MZES Universität Mannheim"
+  title = "Referent"
+  company = "Fraktion der Freien Demokraten im Hessischen Landtag"
   company_url = ""
-  location = "Mannheim"
-  date_start = "2018-11-01"
+  location = "Wiesbaden"
+  date_start = "2021-04-15"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Web Scraping
-  * Text Analysis 
-  * Document Parsing
-  """
 
-[[experience]]
-  title = "Teaching Assistant"
-  company = "Universität Mannheim"
-  company_url = ""
-  location = ""
-  date_start = "2017-12-01"
-  date_end = ""
-  description = ""
- 
-[[experience]]
-  title = "Student Research Assistant"
-  company = "WiSo Laboratory"
-  company_url = ""
-  location = "Universität Hamburg"
-  date_start = "2013-12-01"
-  date_end = "2017-08-01"
-  description = ""
+
 
 +++
