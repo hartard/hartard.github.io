@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 100 %
+  icon: microsoft
+  icon_pack: fab
+  name: MS Office
 - description: 70 %
   icon: python
   icon_pack: fab
   name: Python
-- description: 70 %
-  icon: microsoft
-  icon_pack: fab
-  name: MS Office
 - description: 30 %
   icon: linux
   icon_pack: fab
