@@ -65,7 +65,7 @@ highlight_name: false
 ---
 
 My name is Falco Hartard. 
-I studied economics and political science and I work for the Liberal Democrats.
+I studied economics and political science. Now, I work for the Liberal Democrats in Hesse.
 My interests are data analysis, social media communication and policy.
 I am especially interested in communication behaviors and automated hate speech detection.
 Further, I study infrastructure, mobility and transportation. And their implementation via policy.
